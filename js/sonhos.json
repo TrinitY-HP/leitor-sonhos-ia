@@ -1,0 +1,19 @@
+{
+    "sonhos": [
+        {
+            "titulo": "Sonho de Voar",
+            "palavrasChave": ["voar", "céu", "asas"],
+            "interpretacao": "Simboliza liberdade, desejo de escapar de limitações ou busca por perspectiva."
+        },
+        {
+            "titulo": "Sonho de Dentes Caindo",
+            "palavrasChave": ["dente", "queda", "boca"],
+            "interpretacao": "Comum em períodos de ansiedade, relacionado à autoimagem ou medo de envelhecer."
+        },
+        {
+            "titulo": "Sonho com Água",
+            "palavrasChave": ["água", "mar", "rio", "chuva"],
+            "interpretacao": "Água calma: paz interior. Água agitada: emoções turbulentas."
+        }
+    ]
+}

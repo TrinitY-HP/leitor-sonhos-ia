@@ -13,18 +13,13 @@
     </nav>
 
     <section class="busca-sonhos">
-        <h2>Buscar na Biblioteca</h2>
-        <input type="text" placeholder="Digite uma palavra-chave...">
+        <h2>🔎 Buscar na Biblioteca</h2>
+        <input type="text" id="input-busca" placeholder="Ex: voar, água, perseguição...">
+        <button onclick="buscarSonhos()">Buscar</button>
         
-        <div class="sonho-item">
-            <h3>Sonho de Voar</h3>
-            <p>Significado: Liberdade, desejo de escape ou autocontrole.</p>
-        </div>
-
-        <div class="sonho-item">
-            <h3>Sonho de Cair</h3>
-            <p>Significado: Medo do fracasso ou perda de controle.</p>
-        </div>
+        <div id="resultados-busca"></div>
     </section>
+    
+    <script src="js/biblioteca.js"></script> <!-- Novo arquivo -->
 </body>
 </html>
